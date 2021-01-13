@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background: red;
+    padding: 30px;
+}
+.header-BigText{
+    text-align: center;
+    font-size: 25px;
+    color: aliceblue;
+    margin: 20px;
+    font-weight: 600;
+}
+.header-SmallText{
+    color: aliceblue;
+    font-size: 18px;
+    text-align: center;
+}
+.image{
+    background-image: url('images/снежинка.png');
+    height: 70px;
+    width: 70px;
+    background-size: cover;
+    margin: 0 auto;
+}
+nav{
+    background: blue;
+    padding: 15px;
+    border-top: 2px solid rebeccapurple;
+}
+.nav-box{
+    text-align: center;
+}
+.nav-link{
+    margin: 5px 15px;
+    font-size: 18px;
+    text-decoration: none;
+    color: lightslategrey;
+}
